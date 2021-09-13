@@ -4,9 +4,9 @@
 /node_modules
 /Debug
 .sln
-.vcx.proj
-.vcx.proj.filters
-.vcx.proj.user
+NumberNames.vcx.proj
+NumberNames.vcx.proj.filters
+NumberNames.vcx.proj.user
 
 # testing
 /coverage
